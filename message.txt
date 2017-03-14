@@ -1,0 +1,15 @@
+Hello {name},
+ 
+My name is Alon Gal, a software developer and entrepreneur from Tel Aviv, MSc in physics. I’d like to discuss my initiative, which is related to your area.
+ 
+We (my partner & I) are building tools to make it easier for scientists to use the cloud to run large computations. Our reasoning is that scientists have particular computing needs, which university clusters do not always provide, but they do not have the time and capacity to manage their own infrastructure. 
+
+We aim to eliminate the common pains associated with university clusters, such as queueing for CPU time, setting up environments and dependencies, and getting quotas on disk space. In addition, we want to make it easier to use the cloud, by taking care of machine deployment and termination, security groups, scaling up and down, and versioning.
+
+If you have time to discuss this with me, I would be very interested. In any case, I would appreciate feedback, in particular:
+1. Do you feel a need for such a service?
+2. Do you currently use cloud computing, the university cluster, or your own hardware?
+
+Thank you very much for your time and all the best!
+
+Alon
